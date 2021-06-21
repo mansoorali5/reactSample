@@ -1,7 +1,7 @@
 {
 	"id": 1,
 	"name": "John Smith",
-	"email": "jsmith2@test.com",
+	"email": "jsmith@test.com",
 	"phone": "123456789",
 	"city": "bangalore",
 	"state": "karnataka",
